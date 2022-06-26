@@ -3,7 +3,7 @@
 \title{Empirical Likelihood Inference of Variance Components in Linear Mixed-Effects Models}
 \description{This package provides empirical likelihood-based methods for the inference of  variance components in linear mixed-effects models.}
 \author{
-    Jingru Zhang
+    Jingru Zhang, Haochang Shou, Hongzhe Li
 
     Maintainer: Jingru Zhang (jingru.zhang@pennmedicine.upenn.edu)
 }
