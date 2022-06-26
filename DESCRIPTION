@@ -1,0 +1,11 @@
+Package: ELmethodVar
+Version: 0.1
+Date: 2022-06-25
+Title: Empirical Likelihood Inference of Variance Components in Linear
+        Mixed-Effects Models
+Author: Jingru Zhang 
+Maintainer: Jingru Zhang <jingru.zhang@pennmedicine.upenn.edu>
+Depends: R (>= 3.5.0)
+Description: This package provides empirical likelihood-based methods for the inference of variance components in linear mixed-effects models.
+License: GPL (>= 2)
+

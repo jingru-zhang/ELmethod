@@ -1,0 +1,4 @@
+importFrom("stats", "pnorm", "rnorm")
+export(ELvar)
+export(multiELvar)
+export(GELvar)
