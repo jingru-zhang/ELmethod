@@ -5,7 +5,7 @@ Empirical Likelihood Inference of Variance Components in Linear Mixed-Effects Mo
 This package provides empirical likelihood-based methods for the inference of  variance components in linear mixed-effects models.
 
 ## Maintainer
-Jingru Zhang (jingru.zhang@pennmedicine.upenn.edu)
+Jingru Zhang (jr_zhang@fudan.edu.cn)
 
 ## Examples
 ```{r}
