@@ -35,8 +35,8 @@ re = GELvar(X,Y.all,Philist,theta0=0)
 R (>= 3.5.0)
 
 ## Acknowledgements
-This research was supported by NSFC grant 12401388, Shanghai Pujiang Program grant
-23PJ1401100.
+This package was supported by the National Natural Science Foundation of China (NSFC grant 12401388) and the Shanghai Pujiang Program (grant 23PJ1401100).
+
 
 ## Citation 
 Zhang J., Guo W., Carpenter J.S., Leroux A., Merikangas K.R., Martin N.G., Hickie I.B., Shou H., and Li H. (2025). Empirical likelihood tests for variance components in linear mixed-effects models. Statistica Sinica.
